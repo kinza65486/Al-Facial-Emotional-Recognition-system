@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # 1. Apni API Key yahan lagayein
-API_KEY = "AIzaSyAtz9yADwoxMJUlBlZJ8wDMfLnV28nCvkQ"
+API_KEY = "AIzaSyvkQ"
 genai.configure(api_key=API_KEY)
 
 # 2. MASTER PROMPT (As per PDF Instructions)
